@@ -33,4 +33,5 @@ for activity in activities:
     #print(activity.start,activity.end)
 
 for activity in newlist:
-    print(activity.start,activity.end)
+    print(activity)
+    #print(activity.start,activity.end)
